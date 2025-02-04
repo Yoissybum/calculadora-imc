@@ -31,7 +31,7 @@ if (isNaN(peso) || peso <= 0) {
         containerDOM.style.backgroundColor = "#ffcc00"; 
     } else {
         mensaje = `¡Oh, no, ${userName}! Por favor cuida tu salud, ya llegaste a la obesidad.`;
-        imagen = "https://especiales.publimetro.co/famisanar-obesidad/wp-content/uploads/2022/12/Recurso-1.png";
+        imagen = "https://png.pngtree.com/png-vector/20240601/ourmid/pngtree-cartoon-fat-child-with-speech-bubble-png-image_12587425.png";
         containerDOM.style.backgroundColor = "#ff4c4c"; 
     }
 
